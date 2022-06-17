@@ -5,7 +5,6 @@ All Copyright By POLAT BOT
 
 Project discord.js V13
 Bashtren Boty Reklam La Discord   
-Stary 🌟 Projectaka Laber Makan
 
 
 
