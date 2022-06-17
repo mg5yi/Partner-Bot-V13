@@ -1,10 +1,10 @@
 {
-  "name": "partner",
-  "version": "1.0.0",
-  "main": "bot.js",
+  "name": "partner-v13",
+  "version": "8.1.2",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -18,7 +18,7 @@
     "pro.db": "^3.0.6"
   },
   "devDependencies": {
-    "node": "^16.13.2"
+    "node": "16.x"
   },
-  "description": ""
+  "description": "POLAT BOT#4898"
 }
