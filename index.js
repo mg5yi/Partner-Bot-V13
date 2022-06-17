@@ -12,7 +12,7 @@ client.on('ready', async () => {
  client.user.setActivity(`رێکلام بۆ من بنێرە`, { type:'WATCHING' })
 });
 
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//https://discord.gg/devilstaff//devilstaff//
 ////////
 
 client.on("messageCreate", (message) => {
@@ -59,7 +59,7 @@ if (message.content === "reklam agornawa") {
         message.reply(`رێکلام لە تایبەت بۆم بنێرە`);
     }
 });
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+
 //////////////
 client.on("messageCreate", async message => {
   if (message.channel.type === "dm") return;
@@ -73,7 +73,7 @@ client.on("messageCreate", async message => {
   }
 });
 
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+
 //////////////
 
 client.on('messageCreate',async (message) => {
@@ -106,7 +106,7 @@ https://discord.gg/LinkServert :white_check_mark:`}).catch(async (err) => {
        return;
     }}
 })
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+
 const { joinVoiceChannel } = require('@discordjs/voice');
 
 let GUILD = client.guilds.cache.get('ID Server');
@@ -120,6 +120,6 @@ connection;  
 
 
 
-//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+
 
 client.login(config.token)// Token Botakat La Bashi config.json dane
