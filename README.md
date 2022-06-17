@@ -18,4 +18,4 @@ Stary 🌟 Projectaka Laber Makan
 
 
 # Link Server 👇
-<a href="https://discord.gg/devilstaff"><img src="https://cdn.discordapp.com/attachments/837245653276950538/987346877634715688/unknown.png"></a>
+<a href="https://discord.gg/devilstaff"><img src="https://cdn.discordapp.com/attachments/837245653276950538/987347490674208839/unknown.png"></a>
