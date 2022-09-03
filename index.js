@@ -80,7 +80,7 @@ client.on('messageCreate',async (message) => {
     if (message.author.bot) return;
     if (message.channel.type == 'DM') {
       
-    let share = await client.channels.cache.get('IDCHANNEL'); //Id Channel Partner lera dane
+    let share = await client.channels.cache.get('924382253205819445'); //Id Channel Partner lera dane
     let args = await message.content.split(' ');
     let cool = await db.get(`cool_${message.author.id}`);
 
@@ -96,7 +96,7 @@ client.on('messageCreate',async (message) => {
         await db.set(`cool_${message.author.id}`,time);
         await share.send({content: `${invite}\n\` رێکلام کرا لەلایەن\` ${message.author}`});
         await message.channel.send({content : `> ** رێکلام کرا لە ژووری ${share} تۆش بیکە **
-https://discord.gg/LinkServert :white_check_mark:`}).catch(async (err) => {
+https://discord.gg/X4qye9ZTYb :white_check_mark:`}).catch(async (err) => {
             await message.channel.send({content : `> **${message.author} لینک سێرڤەرت دانرا لە بەشی ${share}**`});
         })
     }).catch(async (err) => {
@@ -109,9 +109,9 @@ https://discord.gg/LinkServert :white_check_mark:`}).catch(async (err) => {
 
 const { joinVoiceChannel } = require('@discordjs/voice');
 
-let GUILD = client.guilds.cache.get('ID Server');
+let GUILD = client.guilds.cache.get('763440924562030602');
 const connection = joinVoiceChannel({
-    channelId: 'ID Voice',
+    channelId: '898304066021621770',
     guildId: GUILD.id,
     adapterCreator: GUILD.voiceAdapterCreator,
     selfDeaf: false
